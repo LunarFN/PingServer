@@ -1,0 +1,11 @@
+{
+  "name": "PingServer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "not_secret1337",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
